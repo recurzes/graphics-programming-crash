@@ -14,6 +14,6 @@
 # Building:
 - Create a "build" folder on the root project
 - cd into build folder
-- "cmake --build . --target 'name_of_the_folder'"
+- "cmake --build . --target name_of_the_folder"
 - "make"
 ### And your binary is built fucking magic
